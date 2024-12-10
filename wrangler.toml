@@ -12,5 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "a1e319f5-8587-4983-aa01-770e32d6dc10
-"
+UUID = "a1e319f5-8587-4983-aa01-770e32d6dc10"
